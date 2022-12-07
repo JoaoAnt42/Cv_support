@@ -1,2 +1,2 @@
-# Cv_support
-A repository of support to my CV
+# Projects/Certificates
+Some of the certificates that I obtained online are available here.
